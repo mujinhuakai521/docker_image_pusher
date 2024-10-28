@@ -1,1 +1,1 @@
-kubernetesui/dashboard:v2.7.0
+docker.io/flannel/flannel:v0.26.0
