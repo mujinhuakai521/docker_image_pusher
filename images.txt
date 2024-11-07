@@ -1,1 +1,5 @@
-ghcr.io/heyputer/puter:latest
+lscr.io/linuxserver/webtop:latest
+lscr.io/linuxserver/webtop:ubuntu-xfce
+lscr.io/linuxserver/webtop:fedora-xfce
+lscr.io/linuxserver/webtop:arch-xfce
+lscr.io/linuxserver/webtop:debian-xfce
