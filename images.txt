@@ -1,1 +1,3 @@
-niruix/sshwifty:latest
+mysql:8.0
+registry.cn-beijing.aliyuncs.com/dushixiang/guacd:latest
+registry.cn-beijing.aliyuncs.com/dushixiang/next-terminal:latest
