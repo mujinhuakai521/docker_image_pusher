@@ -1,3 +1,7 @@
-mysql:8.0
-registry.cn-beijing.aliyuncs.com/dushixiang/guacd:latest
-registry.cn-beijing.aliyuncs.com/dushixiang/next-terminal:latest
+ registry.cn-hangzhou.aliyuncs.com/xingqiongtiedao/redis:6.2
+ registry.cn-hangzhou.aliyuncs.com/xingqiongtiedao/mariadb:10.6
+ registry.cn-hangzhou.aliyuncs.com/xingqiongtiedao/core:v2.25.2
+ registry.cn-hangzhou.aliyuncs.com/xingqiongtiedao/koko:v2.25.2
+ registry.cn-hangzhou.aliyuncs.com/xingqiongtiedao/lion:v2.25.2
+ registry.cn-hangzhou.aliyuncs.com/xingqiongtiedao/magnus:v2.25.2
+ registry.cn-hangzhou.aliyuncs.com/xingqiongtiedao/web:v2.25.2
