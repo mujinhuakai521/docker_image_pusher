@@ -1,7 +1,1 @@
-jumpserver/core:v4.3.1-ce
-jumpserver/lion:v4.3.1-ce
-jumpserver/koko:v4.3.1-ce
-jumpserver/chen:v4.3.1-ce
-jumpserver/web:v4.3.1-ce
-redis:7.0-bullseye
-postgres:16.3-bullseye
+ghcr.io/seriousm4x/upsnap:latest
