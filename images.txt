@@ -1,1 +1,1 @@
-ghcr.io/seriousm4x/upsnap:latest
+ghcr.io/seriousm4x/upsnap:4
