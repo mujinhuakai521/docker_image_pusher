@@ -1,1 +1,2 @@
-ghcr.io/seriousm4x/upsnap:4
+zhangsean/yearning
+ mysql:8.1
