@@ -1,2 +1,1 @@
-zhangsean/yearning
- mysql:8.1
+chaiyd/yearning:latest
