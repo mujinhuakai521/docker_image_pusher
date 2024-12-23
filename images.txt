@@ -1,1 +1,1 @@
-registry.cn-shenzhen.aliyuncs.com/xiaohh-docker/nfs-subdir-external-provisioner:v4.0.18
+eipwork/nfs-subdir-external-provisioner:v4.0.18
