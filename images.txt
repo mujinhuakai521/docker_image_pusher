@@ -1,1 +1,1 @@
-nfs-subdir-external-provisioner:v4.0.18
+quay.io/kubernetes-sigs/nfs-subdir-external-provisioner:v4.0.18
