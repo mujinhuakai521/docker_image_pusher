@@ -1,1 +1,1 @@
-chaiyd/yearning:latest
+swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/nfs-subdir-external-provisioner:v4.0.18
