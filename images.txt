@@ -1,1 +1,1 @@
-quay.io/kubernetes-sigs/nfs-subdir-external-provisioner:v4.0.18
+registry.cn-shenzhen.aliyuncs.com/xiaohh-docker/nfs-subdir-external-provisioner:v4.0.18
